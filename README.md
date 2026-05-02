@@ -113,10 +113,11 @@ class SparshAgarwal:
 **Impact:** Reduces manual MIS reporting time by **90%**
 
 <p align="center">
-  <a href="#">
+  <a href="https://github.com/Sparsh2413/ai-mis-report-summariser/">
     <img src="https://img.shields.io/badge/-View%20Project-000000?style=for-the-badge&logo=github" />
   </a>
-  <a href="#">
+  <a href="https://ai-mis-report-summariser-bzxmbv6uhb4vemdwjr5fqu.streamlit.app/
+">
     <img src="https://img.shields.io/badge/-Live%20Demo-007ACC?style=for-the-badge&logo=vercel" />
   </a>
 </p>
@@ -195,7 +196,7 @@ I don't just analyze data — I build systems that **think, explain, and guide d
 
 <div align="center">
   <p>
-    <a href="https://www.linkedin.com/in/agarwalsparsh5645" target="_blank">
+    <a href="https://www.linkedin.com/in/agarwalsparsh1303" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://instagram.com/__sparshhh_" target="_blank">
@@ -210,10 +211,10 @@ I don't just analyze data — I build systems that **think, explain, and guide d
   </p>
   
   <p>
-    <a href="https://wa.me/91XXXXXXXXXX" target="_blank">
+    <a href="https://wa.me/919368912667" target="_blank">
       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
     </a>
-    <a href="https://portfolio.sparshagg.vercel.app" target="_blank">
+    <a href="https://sparsh13portfolio.netlify.app/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" />
     </a>
   </p>
